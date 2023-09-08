@@ -1,4 +1,4 @@
-# artificialvision
+# visión artificial
 ¿Puede la visión artificial ser útil?
 
 Realizaremos un estudio de los datos suministrados correspondientes a imágenes de personas con sus respectivas edades, con la finalidad de demostrar las ventajas competitivas de tener un modelo basado en métodos de visión artificial. De esta manera estamos seguros de poder contribuir a cumplir con las leyes sobre la venta de alcohol y proporcionar una manera efectiva de de no vender alcohol a personas menores de edad.
